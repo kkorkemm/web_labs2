@@ -28,7 +28,7 @@
     }
     else {
         echo "<h4>Вы зашли к нам $visitCounter раз</h4>";
-        echo "<p>Последнее посещение: $lastVisit</p>";
+        echo "<p style='padding: 0;'>Последнее посещение: $lastVisit</p>";
     }
   ?>
     <!-- Заголовок -->
