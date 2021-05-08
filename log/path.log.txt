@@ -1,0 +1,7 @@
+08-05-2021 20:26:32  |  /web_labs2/  |  http://mysite2.local:8080/ 
+08-05-2021 20:26:33  |  /web_labs2/index.php?id=log  |  http://mysite2.local:8080/web_labs2/ 
+08-05-2021 20:26:57  |  /web_labs2/index.php?id=gbook  |  http://mysite2.local:8080/web_labs2/index.php?id=log 
+08-05-2021 20:26:58  |  /web_labs2/index.php?id=contact  |  http://mysite2.local:8080/web_labs2/index.php?id=gbook 
+08-05-2021 20:27:00  |  /web_labs2/index.php  |  http://mysite2.local:8080/web_labs2/index.php?id=contact 
+08-05-2021 20:27:01  |  /web_labs2/index.php?id=log  |  http://mysite2.local:8080/web_labs2/index.php 
+08-05-2021 20:27:07  |  /web_labs2/index.php  |  http://mysite2.local:8080/web_labs2/index.php?id=log 
